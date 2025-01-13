@@ -28,19 +28,19 @@ Note: the external miner finds solutions and reports them to the node. if the no
 ### Example
 
 ```bash
-./liberty-linux-amd64 https://rpc.libertyproject.space 12
+./liberty-linux-amd64 http://ip_node:9945 12
 ```
 or
 
 ```bash
-liberty-windows-amd64.exe https://rpc2.libertyproject.space 12
+liberty-windows-amd64.exe http://ip_node:9945 12
 ```
 
 ### Parameters
 
-- **`<url-rpc>`**: The RPC URL of the node you want to connect to.
+- **`<url-rpc>`**: The RPC URL of your node to which you want to connect.
 - **`<number-of-threads>`**: The number of CPU threads to use for mining.
-- 
+ 
 Note: it is important for a miner to use its own rpc configured by [Liberty Project chain](https://github.com/LibertyProject-chain/LibertyProject-chain)
 
 ---
