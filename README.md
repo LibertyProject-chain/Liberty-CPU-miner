@@ -40,17 +40,8 @@ liberty-windows-amd64.exe https://rpc2.libertyproject.space 12
 
 - **`<url-rpc>`**: The RPC URL of the node you want to connect to.
 - **`<number-of-threads>`**: The number of CPU threads to use for mining.
+- 
 Note: it is important for a miner to use its own rpc configured by [Liberty Project chain](https://github.com/LibertyProject-chain/LibertyProject-chain)
-
----
-
-## Public RPC URLs
-
-We provide public RPC endpoints for different regions to ensure low latency and reliable connections:
-
-- **DEU**: [https://rpc.libertyproject.space/](https://rpc.libertyproject.space/)
-- **NLD**: [https://rpc2.libertyproject.space/](https://rpc2.libertyproject.space/)
-Use the appropriate RPC URL based on your geographical location.
 
 ---
 
