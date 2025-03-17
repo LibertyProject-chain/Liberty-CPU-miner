@@ -10,7 +10,7 @@ Note: the external miner finds solutions and reports them to the node. if the no
 
 ## Downloads
 
-**Latest Release v0.6.7:**
+**Latest Release v0.6.8:**
 
 - [Linux (amd64)](https://github.com/LibertyProject-chain/Liberty-CPU-miner/releases/download/v0.6.7/liberty-linux-amd64)
 - [Windows (amd64)](https://github.com/LibertyProject-chain/Liberty-CPU-miner/releases/download/v0.6.7/liberty-windows-amd64.exe)
