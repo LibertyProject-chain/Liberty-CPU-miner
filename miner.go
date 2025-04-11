@@ -117,7 +117,7 @@ func mineBlock(ctx context.Context, work *Work, id int, client *rpc.Client) {
 		target     = work.Target
 		nonce      = uint64(rand.Int63())
 		powBuffer  = new(big.Int)
-		iterCount  = 50000
+		iterCount  = 312688
 	)
 	log.Printf("Liberty Project [Worker %d]: commencing LBRT mining cycle with seed=%d", id, nonce)
 
